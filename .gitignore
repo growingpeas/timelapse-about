@@ -1,0 +1,5 @@
+# This repository is public. The agent files describe the machine they live on: home-directory
+# paths, sibling clone names, where sessions start. That is internal context with no reader here.
+# They stay on disk and out of every commit.
+/AGENTS.md
+/CLAUDE.md
